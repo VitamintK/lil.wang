@@ -1,1 +1,1 @@
-[[[thacarter4real.png|width=700px]]](http://scientist.wang/)
+[![a portrait of tha author as a young man](thacarter4real.png)](http://scientist.wang/)
